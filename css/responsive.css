@@ -40,7 +40,7 @@
     .slider_btn {
         display: flex;
         flex-direction: column;
-        width: 70%;
+        width: 54%;
         margin: auto;
         text-align: center;
         gap: 1rem;
